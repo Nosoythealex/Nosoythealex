@@ -8,20 +8,41 @@
   <img src="https://media.giphy.com/media/l41lSxVZVzO1l4tDa/giphy.gif" width="300"/>
 </div>
 
-```bash
-┌──(root㉿nosoytheal3zzz)-[~/about_me]
-└─# cat profile.txt
+```
+bash
+┌──
+(
+root㉿nosoytheal3zzz
+)
+-
+[
+~/about_me
+]
+└─
+# cat profile.txt
 
-[*] Role: Ingeniero en Ciberseguridad y Redes
+[
+*
+]
+ Role: Ingeniero en Ciberseguridad y Redes
 
-[*] Interests:
+[
+*
+]
+ Interests:
     ├── 🛡️ Seguridad de la información
     ├── 🌐 Redes y comunicaciones
     ├── 🔐 Análisis de vulnerabilidades
     └── 🖥️ Hacking ético
 
-[*] Current_status: Hunting vulnerabilities...
+[
+*
+]
+ Current_status: Hunting vulnerabilities
+..
+.
 ```
+
 
 ## 📊 Estadísticas de GitHub
 ![Estadísticas](https://github-readme-stats.vercel.app/api?username=Nosoytheal3zzz&show_icons=true&theme=dark)
