@@ -1,13 +1,9 @@
 <div align="center">
   <h1>
-    <img src="https://i.imgur.com/JSfXyzm.gif" width="30" /> 
+    <img src="https://i.imgur.com/AZa5yxl.gif" width="25" /> 
     N O S O Y T H E A L 3 Z Z Z
-    <img src="https://i.imgur.com/JSfXyzm.gif" width="30" />
+    <img src="https://i.imgur.com/AZa5yxl.gif" width="25" />
   </h1>
-</div>
-
-<div align="center">
-  <img src="https://i.imgur.com/wWASZUi.gif" width="400"/>
 </div>
 
 <div align="center">
@@ -34,9 +30,6 @@
     <img src="https://img.shields.io/badge/Networking-%23121011?style=for-the-badge"/>
   </p>
 </div>
-
-## ⚡ Stats
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=Nosoytheal3zzz&show_icons=true&theme=midnight-purple)
 
 ## 📫 Connect
 <div align="center">
