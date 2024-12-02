@@ -16,8 +16,7 @@
 └──╼ # cat manifesto.txt
 
 [!] WHO AM I?
-    └──➤ Explorador del ciberespacio, navegando por las profundidades de las redes
-        y descubriendo los secretos del hacking ético, un paso a la vez.
+    └──➤ Estudiante de Ingenieria en Ciberseguridad y Redes en ITESO
         
 [!] MISSION
     └──➤ Transformar la curiosidad en conocimiento
