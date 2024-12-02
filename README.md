@@ -1,6 +1,6 @@
-<h1 align="center">Al3zzz</h1>
+<h1 align="center">Nosoytheal3zzz</h1>
 <div align="center">
-  <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="200"/>
+  <img src="[https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHlja3QwOGtrYXk4ZndtNXI5NDV4YzBmajFwbGpsZGk0bWFsa2l2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41lSxVZVzO1l4tDa/giphy.webp)" width="200"/>
 </div>
 
 ## 👨‍💻 Sobre mí
