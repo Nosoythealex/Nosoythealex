@@ -7,18 +7,8 @@
   <br>
   <!-- Opción 1: Línea glitch simple -->
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-  
-  <!-- Opción 2: Línea con efecto de interferencia -->
-  <img src="https://i.imgur.com/waxVImv.png" height="20" width="100%">
-  
-  <!-- Opción 3: Línea estática con ruido -->
-  <img src="https://i.imgur.com/YCkC5PS.gif" height="20" width="100%">
-  
-  <!-- Opción 4: Línea con efecto de ondas -->
-  <img src="https://i.imgur.com/WSWqboi.gif" height="20" width="100%">
-  
-  <!-- Opción 5: Línea con efecto pixelado -->
-  <img src="https://i.imgur.com/lqJWDKt.gif" height="20" width="100%">
+  <br>
+  <br>
 </div>
 
 ```bash
