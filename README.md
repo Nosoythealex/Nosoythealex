@@ -1,24 +1,25 @@
 <h1 align="center">Nosoytheal3zzz</h1>
 <div align="center">
-  <img src="[https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHlja3QwOGtrYXk4ZndtNXI5NDV4YzBmajFwbGpsZGk0bWFsa2l2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41lSxVZVzO1l4tDa/giphy.webp)" width="200"/>
+  <img src="https://media.giphy.com/media/l41lSxVZVzO1l4tDa/giphy.gif" width="300"/>
 </div>
 
-## 👨‍💻 Sobre mí
-Ingeniero en Ciberseguridad y Redes apasionado por:
-- 🛡️ Seguridad de la información
-- 🌐 Redes y comunicaciones
-- 🔐 Análisis de vulnerabilidades
-- 🖥️ Hacking ético
+```bash
+┌──(root㉿nosoytheal3zzz)-[~/about_me]
+└─# cat profile.txt
 
-## 🔧 Tecnologías y Herramientas
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Kali](https://img.shields.io/badge/-Kali-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/-Nmap-557C94?style=for-the-badge&logo=nmap&logoColor=white)
+[*] Role: Ingeniero en Ciberseguridad y Redes
+
+[*] Interests:
+    ├── 🛡️ Seguridad de la información
+    ├── 🌐 Redes y comunicaciones
+    ├── 🔐 Análisis de vulnerabilidades
+    └── 🖥️ Hacking ético
+
+[*] Current_status: Hunting vulnerabilities...
+```
 
 ## 📊 Estadísticas de GitHub
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=Al3zzz&show_icons=true&theme=dark)
+![Estadísticas](https://github-readme-stats.vercel.app/api?username=Nosoytheal3zzz&show_icons=true&theme=dark)
 
 ## 📫 Contacto
 <div align="center">
@@ -32,5 +33,5 @@ Ingeniero en Ciberseguridad y Redes apasionado por:
 
 ---
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Al3zzz&color=blue&style=flat-square&label=Visitas+al+perfil"/>
+  <img src="https://komarev.com/ghpvc/?username=Nosoytheal3zzz&color=blue&style=flat-square&label=Visitas+al+perfil"/>
 </div>
