@@ -5,8 +5,20 @@
 <div align="center">
   <img src="https://media.giphy.com/media/l41lSxVZVzO1l4tDa/giphy.gif" width="300"/>
   <br>
-  <img src="https://i.imgur.com/waxVImv.png" alt="Animated Line" width="400"/>
-  <br>
+  <!-- Opción 1: Línea glitch simple -->
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  
+  <!-- Opción 2: Línea con efecto de interferencia -->
+  <img src="https://i.imgur.com/waxVImv.png" height="20" width="100%">
+  
+  <!-- Opción 3: Línea estática con ruido -->
+  <img src="https://i.imgur.com/YCkC5PS.gif" height="20" width="100%">
+  
+  <!-- Opción 4: Línea con efecto de ondas -->
+  <img src="https://i.imgur.com/WSWqboi.gif" height="20" width="100%">
+  
+  <!-- Opción 5: Línea con efecto pixelado -->
+  <img src="https://i.imgur.com/lqJWDKt.gif" height="20" width="100%">
 </div>
 
 ```bash
