@@ -1,13 +1,11 @@
-<div align="center">
-  <h1>
-    <img src="https://i.imgur.com/AZa5yxl.gif" width="25" /> 
-    N O S O Y T H E A L 3 Z Z Z
-    <img src="https://i.imgur.com/AZa5yxl.gif" width="25" />
-  </h1>
-</div>
+<h1 align="center">
+  <b>ℕ𝕆𝕊𝕆𝕐𝕋ℍ𝔼𝔸𝕃𝟛ℤℤℤ</b>
+</h1>
 
 <div align="center">
   <img src="https://media.giphy.com/media/l41lSxVZVzO1l4tDa/giphy.gif" width="300"/>
+  <br>
+  <img src="https://i.imgur.com/waxVImv.png" alt="Animated Line" width="400"/>
 </div>
 
 ```bash
@@ -58,6 +56,7 @@
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
   ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
   ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+  ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
   
   ### Web Development
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
