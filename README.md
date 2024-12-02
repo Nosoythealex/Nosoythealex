@@ -6,6 +6,7 @@
   <img src="https://media.giphy.com/media/l41lSxVZVzO1l4tDa/giphy.gif" width="300"/>
   <br>
   <img src="https://i.imgur.com/waxVImv.png" alt="Animated Line" width="400"/>
+  <br>
 </div>
 
 ```bash
