@@ -1,4 +1,9 @@
 <h1 align="center">Nosoytheal3zzz</h1>
+
+<div align="center">
+  <img src="https://i.imgur.com/dWfqxux.png" height="40" alt="skull-divider"/>
+</div>
+
 <div align="center">
   <img src="https://media.giphy.com/media/l41lSxVZVzO1l4tDa/giphy.gif" width="300"/>
 </div>
