@@ -50,7 +50,6 @@
   
   ### Networking & Security
   ![Cisco](https://img.shields.io/badge/-Cisco-000000?style=flat&logo=cisco&logoColor=white)
-  ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
   ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat&logo=kali-linux&logoColor=white)
   ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
