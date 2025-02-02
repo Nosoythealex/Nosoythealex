@@ -5,15 +5,14 @@
 <div align="center">
   <img src="https://media.giphy.com/media/l41lSxVZVzO1l4tDa/giphy.gif" width="300"/>
   <br>
-  <!-- Opción 1: Línea glitch simple -->
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
   <br>
   <br>
 </div>
 
 ```bash
-┌──[💀]─[root@nosoytheal3zzz]─[/mindset]
-└──╼ # cat manifesto.txt
+┌──[💀]─[root@xl3xx]─[/me]
+└──╼ # whoami
 
 [!] WHO AM I?
     └──➤ Estudiante de Ingenieria en Ciberseguridad y Redes en ITESO
@@ -31,8 +30,6 @@
   </p>
 </div>
 
-## ⚡ Stats
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=Nosoytheal3zzz&show_icons=true&theme=midnight-purple)
 
 ## 📫 Connect
 <div align="center">
