@@ -39,7 +39,6 @@
   <a href="mailto:TU_EMAIL">
     <img src="https://img.shields.io/badge/Email-101010?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Xlexx.png" alt="Your Image Badge" />
 </div>
 
 <h2 align="center">💻 Technologies & Tools</h2>
@@ -68,3 +67,4 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Nosoytheal3zzz&style=for-the-badge&color=101010"/>
 </div>
+ <img src="https://tryhackme-badges.s3.amazonaws.com/Xlexx.png" alt="Your Image Badge" />
