@@ -39,7 +39,7 @@
   <a href="mailto:TU_EMAIL">
     <img src="https://img.shields.io/badge/Email-101010?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1720639" style='border:none;'></iframe>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/SU_NOMBRE_DE_USUARIO.png" alt="TryHackMe">
 </div>
 
 <h2 align="center">💻 Technologies & Tools</h2>
