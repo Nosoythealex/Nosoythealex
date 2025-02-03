@@ -67,7 +67,8 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Nosoytheal3zzz&style=for-the-badge&color=101010"/>
 </div>
+
 <div align="center">
-  <iframe src="https://tryhackme.com/r/p/Xlexx" style='border:none; width:100%; height:300px;'></iframe>
+  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1720639" style='border:none;'></iframe>
 </div>
 
