@@ -68,6 +68,8 @@
   <img src="https://komarev.com/ghpvc/?username=Nosoytheal3zzz&style=for-the-badge&color=101010"/>
 </div>
 
+***********
+
 <div align="center">
   <img src="https://tryhackme-badges.s3.amazonaws.com/Xlexx.png" alt="Your Image Badge" />
 </div>
